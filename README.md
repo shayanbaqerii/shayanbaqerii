@@ -80,6 +80,7 @@ An everyday-jewellery journal I built and run myself, and the live project for m
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=flat&logo=googleanalytics&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=FFD02F)
 
 ---
 
